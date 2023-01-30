@@ -1,0 +1,115 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.otp--jfg {
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 0.1rem;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  background-color: #efefef;
+
+  .auto-group-xsbx-qyc {
+    background-color: #ffffff;
+    flex-shrink: 0;
+    margin-bottom: 0.5rem;
+    box-sizing: border-box;
+    padding: 1.3rem 15.9rem 2.4rem 2.1rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    .icon-awesome-chevron-right-1-ZPp {
+      flex-shrink: 0;
+      margin: 0.1rem 13rem 0rem 0rem;
+      width: 0.7998rem;
+      height: 1.4rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .otp--UFt {
+      color: #000000;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 700;
+      line-height: 1.2575;
+    }
+  }
+  .auto-group-do5c-NcA {
+    padding: 4.4rem 2.2rem 2rem 2.1rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+
+    .item-7-1-gsk {
+      margin-bottom: 2.8rem;
+      width: 15.7rem;
+      height: 12.7rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .otp--oxN {
+      margin: 0rem 0rem 3.1rem 0.2rem;
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 700;
+      max-width: 10.7rem;
+      line-height: 1.2575;
+      color: #000000;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .otp--shL {
+      text-align: center;
+      font-weight: 700;
+      line-height: 1.2575;
+      color: #6f6f6f;
+      flex-shrink: 0;
+      margin-bottom: 17.9rem;
+      max-width: 17.4rem;
+      font-size: 1.2rem;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+    }
+    .auto-group-ey3c-WEW {
+      align-items: center;
+      background-color: #00358a;
+      width: 100%;
+      height: 4.6rem;
+      text-align: center;
+      font-weight: 700;
+      color: #ffffff;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      justify-content: center;
+      border-radius: 0.8rem;
+      line-height: 1.2575;
+      font-size: 1.5rem;
+      white-space: nowrap;
+      display: flex;
+      flex-shrink: 0;
+    }
+  }
+}

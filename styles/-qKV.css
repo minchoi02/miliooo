@@ -1,0 +1,542 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--EWT {
+  width: 100%;
+  height: 64.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #efefef;
+}
+.item--EWT .rectangle-5-UQo {
+  width: 39rem;
+  height: 53.9rem;
+  position: absolute;
+  left: 0;
+  top: 10.1rem;
+  background-color: #ffffff;
+}
+.item--EWT .rectangle-4-cX1 {
+  width: 39rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.item--EWT .rectangle-3-NWB {
+  width: 39rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 6.3rem;
+  background-color: #1c9bcb;
+}
+.item--EWT .rectangle-6-Xdy {
+  width: 34.8rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 12.1rem;
+  background-color: #00358a;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.item--EWT .rectangle-24-fkB {
+  width: 34.8rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 43.4rem;
+  background-color: #009fb8;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.item--EWT .item-39-yF5 {
+  width: 2.653rem;
+  height: 3rem;
+  position: absolute;
+  left: 32.1653rem;
+  top: 13.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .item--gvB {
+  width: 17.8rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 7.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--gHu {
+  width: 9.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 6.45rem;
+  top: 15.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--tes {
+  width: 9.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 47rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--tYP {
+  width: 2.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 5.15rem;
+  top: 13.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--xHM {
+  width: 2.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 5.15rem;
+  top: 44.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .rectangle-11-eAB {
+  width: 34.8rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 18.3rem;
+  border: solid 0.1rem #ebebeb;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.item--EWT .milo-266-krw-hPM {
+  width: 6.1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 19.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #707070;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .lzm-64krw-DMh {
+  width: 5.1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 51rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #707070;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--jqq {
+  width: 2.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 29.75rem;
+  top: 19.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--Qwy {
+  width: 2.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 29.75rem;
+  top: 50.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .icon-awesome-chevron-right-1-LKq {
+  width: 0.5998rem;
+  height: 1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 19.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .icon-awesome-chevron-right-2-FBu {
+  width: 0.5998rem;
+  height: 1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 51.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .line-1-azs {
+  width: 30.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 22.2rem;
+  background-color: #e9e8f3;
+}
+.item--EWT .line-3-voq {
+  width: 30.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 53.5rem;
+  background-color: #e9e8f3;
+}
+.item--EWT .line-2-rxP {
+  width: 30.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 37rem;
+  background-color: #e9e8f3;
+}
+.item--EWT .item-0-QDD {
+  width: 1.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 23.7rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .milo-teB {
+  width: 4.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 24.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .usd-zhD {
+  width: 4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 28.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #6f6f6f;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .rectangle-22-XSF {
+  width: 14.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 31.7rem;
+  background-color: #dedede;
+  border-radius: 0.5rem;
+}
+.item--EWT .rectangle-23-G8w {
+  width: 14.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 20rem;
+  top: 31.7rem;
+  background-color: #1d1d1d;
+  border-radius: 0.5rem;
+}
+.item--EWT .item--1MR {
+  width: 7rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 15.95rem;
+  top: 38.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .rectangle-39-WZ5 {
+  width: 39rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5099999905);
+}
+.item--EWT .rectangle-40-GYF {
+  width: 39rem;
+  height: 35.9rem;
+  position: absolute;
+  left: 0;
+  top: 28.1rem;
+  background-color: #f7f7f7;
+  border-radius: 2rem 2rem 0 0;
+}
+.item--EWT .icon-awesome-chevron-right-3-aoq {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 33.9rem;
+  top: 37.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .item--htT {
+  width: 23.1rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 31.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--EWT .item--htT .item--htT-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #00358a;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--EWT .item--htT .item--htT-sub-1 {
+}
+.item--EWT .item--mG3 {
+  width: 21.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 37.6rem;
+  font-size: 1.23rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--EWT .rectangle-41-m9Z {
+  width: 34rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 45.5rem;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+}
+.item--EWT .rectangle-42-rwh {
+  width: 34rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 51.2rem;
+  background-color: #ff5b00;
+  border-radius: 0.8rem;
+}
+.item--EWT .rectangle-43-cAB {
+  width: 34rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 56.9rem;
+  background-color: #0047ff;
+  border-radius: 0.8rem;
+}
+.item--EWT .item--wCT {
+  width: 6.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 46.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--dqy {
+  width: 6rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 52.5rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .item--vq5 {
+  width: 6.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 25.8rem;
+  top: 58.2rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EWT .group-9-qh9 {
+  width: 5.25rem;
+  height: 1.2023rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 47.1748rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .icon-awesome-chevron-right-zK9 {
+  width: 0.5998rem;
+  height: 1rem;
+  position: absolute;
+  left: 33.9rem;
+  top: 47.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .layer-1-tvK {
+  width: 7.37rem;
+  height: 1.8458rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 52.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .vector-QNs {
+  width: 6.5969rem;
+  height: 1.3428rem;
+  position: absolute;
+  left: 3.5817rem;
+  top: 58.4057rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .icon-awesome-chevron-right-x9V {
+  width: 0.5998rem;
+  height: 1rem;
+  position: absolute;
+  left: 33.9rem;
+  top: 53rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .icon-awesome-chevron-right-toq {
+  width: 0.5998rem;
+  height: 1rem;
+  position: absolute;
+  left: 33.9rem;
+  top: 58.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .vector-bTM {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 37.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--EWT .wallet-x31 {
+  width: 5.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}

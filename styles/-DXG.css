@@ -1,0 +1,269 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--wwQ {
+  box-sizing: border-box;
+  padding-bottom: 0.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #efefef;
+}
+.item--wwQ .auto-group-6zdp-CMY {
+  margin-bottom: 0.5rem;
+  box-sizing: border-box;
+  padding: 1.3rem 16.25rem 2.4rem 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-6zdp-CMY .icon-awesome-chevron-right-1-h3Q {
+  margin: 0.1rem 13.45rem 0rem 0rem;
+  width: 0.7998rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-6zdp-CMY .item--CVx {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 {
+  width: 100%;
+  height: 57.7rem;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-xebt-RtW {
+  width: 34.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 5.7rem;
+  display: flex;
+  align-items: center;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-xebt-RtW .auto-group-wmmc-xNe {
+  margin-right: 0.7rem;
+  box-sizing: border-box;
+  padding: 1.15rem 1.4rem 1.05rem 1.4rem;
+  width: 27.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #cecece;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #eaeaea;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-xebt-RtW .auto-group-dibk-Pir {
+  width: 6.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #363636;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-mepz-GXk {
+  box-sizing: border-box;
+  padding: 1.15rem 1.4rem 1.05rem 1.4rem;
+  width: 34.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 10.5rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #cecece;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #eaeaea;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-myna-Z9U {
+  width: 12.8rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 18.2rem;
+  display: flex;
+  align-items: center;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-myna-Z9U .item--Gpa {
+  margin-right: 0.3rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-myna-Z9U .item--Nsc {
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-z7dt-Rqt {
+  width: 16rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 19.7rem;
+  display: flex;
+  align-items: center;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-z7dt-Rqt .item--ZBQ {
+  margin-right: 0.3rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-z7dt-Rqt .item--sxn {
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-veyq-LLa {
+  width: 19.5rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 21.2rem;
+  display: flex;
+  align-items: center;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-veyq-LLa .item--4nN {
+  margin-right: 0.3rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-veyq-LLa .item--yuL {
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--wwQ .auto-group-l2qq-VV4 .line-3-chQ {
+  width: 34.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 16.4rem;
+  background-color: #e9e8f3;
+}
+.item--wwQ .auto-group-l2qq-VV4 .auto-group-7plw-Yqx {
+  width: 34.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 51.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+}
+.item--wwQ .auto-group-l2qq-VV4 .item--DSJ {
+  width: 7.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 2.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.item--wwQ .auto-group-l2qq-VV4 .item--DSJ .item--DSJ-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #00358a;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--wwQ .auto-group-l2qq-VV4 .item--DSJ .item--DSJ-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--wwQ .auto-group-l2qq-VV4 .item--DSJ .item--DSJ-sub-2 {
+}

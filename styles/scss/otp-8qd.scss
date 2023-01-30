@@ -1,0 +1,415 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.otp-bod {
+  width: 100%;
+  height: 186.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f9f9f9;
+
+  .auto-group-tnoh-LWK {
+    height: 10.6rem;
+    position: absolute;
+    line-height: 1.2575;
+    font-weight: 700;
+    background-color: #ffffff;
+    border-radius: 0.6rem;
+    white-space: nowrap;
+    box-sizing: border-box;
+    padding: 3.35rem 4.7rem 3.45rem 4.7rem;
+    width: 121.2rem;
+    top: 107.8rem;
+    display: flex;
+    font-size: 3rem;
+    left: 35.4rem;
+    color: #cecece;
+    font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+    border: solid 0.1rem #eaeaea;
+  }
+  .auto-group-kicf-7Qb {
+    left: 36rem;
+    top: 134.8rem;
+    display: flex;
+    align-items: center;
+    width: 74.2rem;
+    height: 3.65rem;
+    position: absolute;
+
+    .item--oHR {
+      display: flex;
+      font-size: 2.8rem;
+      font-weight: 400;
+      margin: 0.05rem 1.1rem 0rem 0rem;
+      line-height: 1.2575;
+      color: #929292;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .item--i9V {
+      line-height: 1.2575;
+      color: #929292;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.05rem;
+      font-size: 2.8rem;
+      font-weight: 400;
+    }
+  }
+  .auto-group-lt4t-7xK {
+    top: 139.9rem;
+    display: flex;
+    align-items: center;
+    width: 60.8rem;
+    height: 3.7rem;
+    position: absolute;
+    left: 36rem;
+
+    .item--qtK {
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 1.1rem 0rem 0rem;
+      display: flex;
+      font-size: 2.8rem;
+      font-weight: 400;
+      line-height: 1.2575;
+      color: #929292;
+    }
+    .item--9e7 {
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+      font-size: 2.8rem;
+      font-weight: 400;
+      line-height: 1.2575;
+      color: #929292;
+    }
+  }
+  .auto-group-cnsr-P2f {
+    top: 145.2rem;
+    display: flex;
+    align-items: center;
+    width: 46.5rem;
+    height: 3.7rem;
+    position: absolute;
+    left: 36rem;
+
+    .item--VLb {
+      font-weight: 400;
+      color: #929292;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0.1rem 1.1rem 0rem 0rem;
+      display: flex;
+      font-size: 2.8rem;
+      line-height: 1.2575;
+      flex-shrink: 0;
+    }
+    .item--DnP {
+      font-weight: 400;
+      line-height: 1.2575;
+      color: #929292;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+      font-size: 2.8rem;
+    }
+  }
+  .line-3-6rB {
+    position: absolute;
+    left: 36rem;
+    top: 128.4rem;
+    background-color: #e9e8f3;
+    width: 120.3rem;
+    height: 0.1rem;
+  }
+  .auto-group-qy5u-eMu {
+    border-radius: 0.8rem;
+    left: 35.4rem;
+    display: flex;
+    justify-content: center;
+    background-color: #00358a;
+    line-height: 1.2575;
+    height: 11.4rem;
+    position: absolute;
+    top: 158.9rem;
+    font-size: 4rem;
+    color: #ffffff;
+    font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+    white-space: nowrap;
+    width: 121.2rem;
+    text-align: center;
+    font-weight: 700;
+    align-items: center;
+  }
+  .item--j8T {
+    position: absolute;
+    left: 36rem;
+    font-weight: 700;
+    color: #000000;
+    width: 13.6rem;
+    height: 5.1rem;
+    top: 100.1rem;
+    font-size: 4rem;
+    line-height: 1.2575;
+    font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .item--1rf {
+    width: 50.9rem;
+    left: 35.4rem;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+    white-space: nowrap;
+    height: 5.1rem;
+    position: absolute;
+    top: 12.4rem;
+    font-size: 4rem;
+    font-weight: 700;
+  }
+  .item--5rX {
+    color: #a3a3a3;
+    height: 7.6rem;
+    left: 35.4rem;
+    top: 20.6rem;
+    font-size: 3rem;
+    font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+    width: 70rem;
+    position: absolute;
+    font-weight: 700;
+    line-height: 1.2575;
+  }
+  .auto-group-owsj-SKh {
+    align-items: center;
+    width: 120.8483rem;
+    height: 6.6363rem;
+    position: absolute;
+    left: 35.4rem;
+    top: 34.8rem;
+    display: flex;
+
+    .item--xYw {
+      line-height: 1.2575;
+      color: #a3a3a3;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 71.042rem 0.636rem 0rem;
+      font-size: 3rem;
+      font-weight: 700;
+    }
+    .group-4-TEo {
+      height: 100%;
+      align-items: center;
+      border-radius: 5rem;
+      width: 21.3061rem;
+      justify-content: center;
+      font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      border: solid 0.1rem #e6e6e6;
+      box-sizing: border-box;
+      display: flex;
+      font-weight: 700;
+      line-height: 1.2575;
+      flex-shrink: 0;
+      font-size: 2.5rem;
+      white-space: nowrap;
+      background-color: #ffffff;
+      color: #595959;
+    }
+  }
+  .auto-group-6agp-jy1 {
+    box-sizing: border-box;
+    height: 47.6rem;
+    top: 44.6rem;
+    align-items: center;
+    padding-top: 5.7rem;
+    width: 120.3rem;
+    position: absolute;
+    left: 36rem;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+    background-color: #ffffff;
+    border-radius: 2rem;
+
+    .auto-group-g1no-FAf {
+      margin: 0rem 6.523rem 4.501rem 5.7rem;
+      width: calc(100% - 12.2231rem);
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+
+      .item--nAb {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 92.8723rem;
+        font-size: 2.8rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        color: #000000;
+        font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+      }
+      .icon-circle-check-hoM {
+        flex-shrink: 0;
+        margin-top: 0.2947rem;
+        width: 4.0046rem;
+        height: 4.0046rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .line-5-DFu {
+      width: 100%;
+      height: 0.1rem;
+      background-color: #e9e8f3;
+      flex-shrink: 0;
+    }
+    .auto-group-euwo-yF5 {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 3.583rem 6.523rem 6.515rem 5.7rem;
+      width: 100%;
+      align-items: center;
+
+      .auto-group-gkkp-hwm {
+        flex-shrink: 0;
+        margin-bottom: 3.2251rem;
+        width: 100%;
+        height: 5.9377rem;
+        display: flex;
+        align-items: flex-start;
+
+        .item--dKd {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0.117rem 60.072rem 0rem 0rem;
+          font-size: 2.8rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+        }
+        .group-5-irs {
+          font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+          align-items: center;
+          justify-content: center;
+          border: solid 0.1rem #e6e6e6;
+          box-sizing: border-box;
+          margin-right: 6.9825rem;
+          width: 15.7176rem;
+          background-color: #ffffff;
+          border-radius: 5rem;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 2.2rem;
+          line-height: 1.2575;
+          color: #000000;
+          white-space: nowrap;
+          display: flex;
+          height: 100%;
+          font-weight: 400;
+        }
+        .icon-circle-check-YL7 {
+          width: 4.0046rem;
+          height: 4.0046rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-top: 0.7345rem;
+        }
+      }
+      .auto-group-ftpu-gSK {
+        flex-shrink: 0;
+        margin-bottom: 3.7964rem;
+        width: 100%;
+        height: 5.9377rem;
+        display: flex;
+        align-items: center;
+
+        .item--1Ub {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 52.472rem 1.031rem 0rem;
+          font-size: 2.8rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+        }
+        .group-3-WAT {
+          margin-right: 6.9825rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          display: flex;
+          text-align: center;
+          align-items: center;
+          justify-content: center;
+          box-sizing: border-box;
+          border-radius: 5rem;
+          flex-shrink: 0;
+          width: 15.7176rem;
+          color: #000000;
+          font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+          white-space: nowrap;
+          border: solid 0.1rem #e6e6e6;
+          background-color: #ffffff;
+          height: 100%;
+          font-size: 2.2rem;
+        }
+        .icon-circle-check-CJB {
+          height: 4.0046rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.6273rem;
+          width: 4.0046rem;
+        }
+      }
+      .auto-group-eb51-Wpf {
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        width: 100%;
+
+        .item--UmV {
+          flex-shrink: 0;
+          margin: 0rem 80.272rem 0.166rem 0rem;
+          font-size: 2.8rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .icon-circle-check-aZd {
+          width: 4.0046rem;
+          height: 4.0046rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+}

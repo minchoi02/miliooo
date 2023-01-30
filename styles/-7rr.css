@@ -1,0 +1,1081 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--jut {
+  width: 100%;
+  height: 64.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #efefef;
+}
+.item--jut .rectangle-4-LYJ {
+  width: 39rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.item--jut .item-170-GB4 {
+  width: 4.3942rem;
+  height: 3.5611rem;
+  position: absolute;
+  left: 31.4rem;
+  top: 1.1rem;
+  overflow: hidden;
+}
+.item--jut .item-170-GB4 .item-162-y5U {
+  box-sizing: border-box;
+  padding: 0.099rem 0.101rem 0.102rem 0.099rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-image: url('../assets/bg-5tv.png');
+}
+.item--jut .item-170-GB4 .item-162-y5U .auto-group-zekj-TmL {
+  margin-right: 0.002rem;
+  width: 4.1884rem;
+  height: 3.3594rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .item-170-GB4 .item-162-y5U .item-931-n2v {
+  margin-top: 0.1871rem;
+  width: 0.004rem;
+  height: 0.0047rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .item-170-GB4 .item-162-y5U .item-162-y5U-bg {
+  width: 4.3942rem;
+  height: 3.5611rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:8bf1001372a9dfee7402e43a5b9e168e5264142a');
+}
+.item--jut .enjoy-your-traveling-1-Q4J {
+  width: 5.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 1.5rem;
+  overflow: hidden;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item--jut .rectangle-5-eUS {
+  width: 39rem;
+  height: 53.9rem;
+  position: absolute;
+  left: 0;
+  top: 10.1rem;
+  background-color: #ffffff;
+}
+.item--jut .rectangle-3-ASn {
+  width: 39rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 6.3rem;
+  background-color: #1c9bcb;
+}
+.item--jut .rectangle-6-tdg {
+  width: 34.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 12.1rem;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-7-DR4 {
+  width: 16.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 22.8rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-13-v4a {
+  width: 16.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 34.9rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-17-ci6 {
+  width: 16.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 47rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-11-uhC {
+  width: 16.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 22.8rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-14-cbc {
+  width: 16.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 34.9rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-18-vcJ {
+  width: 16.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 47rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.item--jut .rectangle-10-qzA {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 30.2rem;
+  border: solid 0.1rem #efefef;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .rectangle-15-YNn {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 42.3rem;
+  border: solid 0.1rem #efefef;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .rectangle-19-Sj4 {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 54.4rem;
+  border: solid 0.1rem #efefef;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .rectangle-12-xBc {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 30.2rem;
+  border: solid 0.1rem #efefef;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .rectangle-16-rnn {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 42.3rem;
+  border: solid 0.1rem #efefef;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .rectangle-20-mPx {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 54.4rem;
+  border: solid 0.1rem #efefef;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .item-39-fVL {
+  width: 1.9595rem;
+  height: 2.2158rem;
+  position: absolute;
+  left: 4rem;
+  top: 13.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .item--ykv {
+  width: 15.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 5.95rem;
+  top: 7.3rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--cJ6 {
+  width: 2.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 7.75rem;
+  top: 14.1rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--6yx {
+  width: 6.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.85rem;
+  top: 20.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item-0-8-NAn {
+  width: 8.4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 20.1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.item--jut .item-0-8-NAn .item-0-8-NAn-sub-0 {
+}
+.item--jut .item-0-8-NAn .item-0-8-NAn-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #b3b3b3;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--jut .item-0-qc6 {
+  width: 1.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .milo-LYr {
+  width: 2.3rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 29.7rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .image-2-3TG {
+  width: 4.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 31.1rem;
+  top: 6.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--jut .icon-awesome-chevron-right-1-yLv {
+  width: 0.9725rem;
+  height: 1.603rem;
+  position: absolute;
+  left: 34rem;
+  top: 13.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .item-53-1-H6i {
+  width: 2.7884rem;
+  height: 2.7884rem;
+  position: absolute;
+  left: 2.1001rem;
+  top: 1.5001rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .airasiacomlogo-npA {
+  width: 6.9338rem;
+  height: 1.5188rem;
+  position: absolute;
+  left: 4.0021rem;
+  top: 24.5001rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .rectangle-9-vfU {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 22.8rem;
+  background-color: #e20000;
+}
+.item--jut .n-1-s4v {
+  width: 0.7rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 23rem;
+  overflow: hidden;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item--jut .mll--Lz6 {
+  width: 5.1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 27.3rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .mll--diJ {
+  width: 5.1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 39.4rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .mll--hTG {
+  width: 5.1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 51.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .mll--ZEa {
+  width: 5.1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 27.3rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item-5--nt2 {
+  width: 6.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 23.35rem;
+  top: 39.4rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item-5--EV8 {
+  width: 6.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 23.35rem;
+  top: 51.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--v74 {
+  width: 2rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 30.7rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--1eJ {
+  width: 2rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 42.8rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--K9C {
+  width: 2rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 54.9rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--1ni {
+  width: 2rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 31.1rem;
+  top: 30.7rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--WjU {
+  width: 2rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 31.1rem;
+  top: 42.8rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--R5k {
+  width: 2rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 54.9rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .home-ya-logo-2-Kgv {
+  width: 5.8788rem;
+  height: 1.6971rem;
+  position: absolute;
+  left: 21.9rem;
+  top: 24.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .shinsegae-duty-free-vector-logo-THL {
+  width: 7.1574rem;
+  height: 1.774rem;
+  position: absolute;
+  left: 4.0002rem;
+  top: 36.6996rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .biwordmark-mYv {
+  width: 7.7669rem;
+  height: 1.5813rem;
+  position: absolute;
+  left: 21.9rem;
+  top: 36.8rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.item--jut .biwordmark-mYv .item-15-Tge {
+  margin-right: 0.096rem;
+  width: 1.0277rem;
+  height: 1.5813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .biwordmark-mYv .item-24-C8S {
+  margin-right: 0.0959rem;
+  width: 1.0277rem;
+  height: 1.5813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .biwordmark-mYv .item-25-tmx {
+  margin-right: 0.096rem;
+  width: 1.0277rem;
+  height: 1.5813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .biwordmark-mYv .item-5-pfc {
+  margin-right: 0.0959rem;
+  width: 1.0277rem;
+  height: 1.5813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .biwordmark-mYv .item-6-9Sz {
+  margin-right: 0.096rem;
+  width: 1.0277rem;
+  height: 1.5813rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .biwordmark-mYv .item-7-5Le {
+  margin-right: 0.0932rem;
+  width: 1.0277rem;
+  height: 1.5813rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .biwordmark-mYv .item-23-Qdp {
+  width: 1.0277rem;
+  height: 1.5813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--jut .ca74316a78cd47a19efd91fbbebbb8d5-1-jvz {
+  width: 7.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 48.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--jut .cubi2012-1-FeS {
+  width: 3.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 21.7rem;
+  top: 48.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--jut .rectangle-22-BHC {
+  width: 39rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 52.9rem;
+  background-color: #e9e8f3;
+}
+.item--jut .item-41-W4a {
+  width: 1.5607rem;
+  height: 1.7646rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 54.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .airasiacommonogram-2Hp {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 54.2rem;
+  overflow: hidden;
+}
+.item--jut .airasiacommonogram-2Hp .airasiacommonogram-kjc {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/airasiacommonogram.png');
+}
+.item--jut .item--GCA {
+  width: 3.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 5.45rem;
+  top: 54.4rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--MDc {
+  width: 2.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 21.75rem;
+  top: 54.4rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .rectangle-23-3s8 {
+  width: 5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 31.9rem;
+  top: 53.9rem;
+  background-color: #232323;
+  border-radius: 5rem;
+}
+.item--jut .item--aMG {
+  width: 1.3rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 33.75rem;
+  top: 54.4rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item-10-1-Tfx {
+  width: 1.2231rem;
+  height: 0.9835rem;
+  position: absolute;
+  left: 14.24rem;
+  top: 54.5558rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .icon-awesome-caret-down-1-BM4 {
+  width: 0.5951rem;
+  height: 0.3723rem;
+  position: absolute;
+  left: 10.8996rem;
+  top: 54.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .rectangle-21-uXx {
+  width: 39rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 0;
+  top: 57.4rem;
+  box-shadow: 0 -0.1rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.item--jut .tabpointon-2Mg {
+  width: 3.6rem;
+  height: 3.5809rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 58.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .tabwalleton-kYa {
+  width: 3.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 12rem;
+  top: 58.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .tabmarketon-Gmp {
+  width: 3.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 22.6rem;
+  top: 58.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .tabviewmoreon-Qd8 {
+  width: 3.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 33.3rem;
+  top: 58.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .item--Xxe {
+  width: 1.5rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 62rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #00358a;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--e1g {
+  width: 1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 62rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--Ycr {
+  width: 1rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 62rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--eft {
+  width: 1.5rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 34.45rem;
+  top: 62rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .rectangle-28-9ce {
+  width: 39rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5099999905);
+}
+.item--jut .rectangle-24-taE {
+  width: 39rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 33.9rem;
+  background-color: #f7f7f7;
+  border-radius: 2rem 2rem 0 0;
+}
+.item--jut .item--ohC {
+  width: 19.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 36.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.item--jut .item--ohC .item--ohC-sub-0 {
+}
+.item--jut .item--ohC .item--ohC-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #00358a;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--jut .item--ohC .item--ohC-sub-2 {
+}
+.item--jut .item--FxW {
+  width: 31.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 40.2rem;
+  font-size: 1.23rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .rectangle-29-G6v {
+  width: 34.4rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 45.1rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.item--jut .item--Axz {
+  width: 4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 46.7rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item-3--fer {
+  width: 7.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 50.3rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .item--YTk {
+  width: 7.3rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 53.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .line-3-Qkr {
+  width: 34.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 49.2rem;
+  background-color: #e9e8f3;
+}
+.item--jut .group-4-LuQ {
+  width: 4.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 50.3rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .group-3-nFc {
+  width: 4.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 52.9rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.item--jut .rectangle-32-2ve {
+  width: 34.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 57.8rem;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+}
+.item--jut .item--Ye6 {
+  width: 3.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 59.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--jut .icon-circle-check-oa2 {
+  width: 1.1465rem;
+  height: 1.1465rem;
+  position: absolute;
+  left: 33.7rem;
+  top: 46.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .icon-circle-check-gdp {
+  width: 1.1465rem;
+  height: 1.1465rem;
+  position: absolute;
+  left: 33.7rem;
+  top: 50.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--jut .icon-circle-check-1g6 {
+  width: 1.1465rem;
+  height: 1.1465rem;
+  position: absolute;
+  left: 33.7rem;
+  top: 53.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}

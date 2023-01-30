@@ -1,0 +1,246 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--7Dt {
+  box-sizing: border-box;
+  padding: 1.7rem 2.2rem 2.1rem 2.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-bottom: solid 0.1rem #e9e8f3;
+}
+.item--7Dt .icon-awesome-chevron-right-1-PBQ {
+  margin: 0rem 0rem 3rem 0rem;
+  width: 0.7998rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .item--tP4 {
+  margin-bottom: 0.9rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .milo--ArN {
+  margin-bottom: 2.1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a3a3a3;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .group-24-Fcv {
+  margin: 0rem 0.1rem 1.2rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1.7rem 2rem 1.8rem 1.5rem;
+  width: calc(100% - 0.3rem);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.item--7Dt .group-24-Fcv .item--MAA {
+  margin-right: 24rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .group-24-Fcv .icon-awesome-chevron-right-FFY {
+  margin-top: 0.1rem;
+  width: 0.5998rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .group-25-jgW {
+  margin: 0rem 0.1rem 1.2rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 2rem 0.9rem 1.4rem;
+  width: calc(100% - 0.3rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.item--7Dt .group-25-jgW .group-28-Dbg {
+  margin: 0rem 1.13rem 0.049rem 0rem;
+  width: 1.4704rem;
+  height: 2.451rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .group-25-jgW .auto-group-bppv-Y8A {
+  margin-right: 19rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item--7Dt .group-25-jgW .auto-group-bppv-Y8A .item--VJJ {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .group-25-jgW .auto-group-bppv-Y8A .item--aKk {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #959595;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .group-25-jgW .icon-awesome-chevron-right-4Vp {
+  margin-bottom: 0.1rem;
+  width: 0.5998rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .group-26-wJi {
+  margin: 0rem 0.1rem 5.4rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 2rem 0.9rem 1.4rem;
+  width: calc(100% - 0.3rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.item--7Dt .group-26-wJi .group-27-RUn {
+  margin: 0rem 1.041rem 0.168rem 0rem;
+  width: 1.5589rem;
+  height: 2.3316rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .group-26-wJi .auto-group-mfs8-wxv {
+  margin-right: 19.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item--7Dt .group-26-wJi .auto-group-mfs8-wxv .item--VjY {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .group-26-wJi .auto-group-mfs8-wxv .item--zAW {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #959595;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--7Dt .group-26-wJi .icon-awesome-chevron-right-6US {
+  margin-bottom: 0.1rem;
+  width: 0.5998rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .line-3-C1g {
+  margin: 0rem 0.1rem 1.8rem 0.2rem;
+  width: calc(100% - 0.3rem);
+  height: 0.1rem;
+  background-color: #e9e8f3;
+  flex-shrink: 0;
+}
+.item--7Dt .auto-group-uzsa-JaW {
+  margin: 0rem 2.8rem 17.3rem 0.1rem;
+  width: calc(100% - 2.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.item--7Dt .auto-group-uzsa-JaW .auto-group-q5vi-dcn {
+  margin: 0.4rem 0.4rem 0rem 0rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--7Dt .auto-group-uzsa-JaW .passport-of-south-korea-iran-north-korea-chian-myanmar-the-us-and-canada-cannot-be-used-for-identification-9r2 {
+  max-width: 30.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.8649999619;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.item--7Dt .auto-group-bdn2-RoY {
+  margin-bottom: 6.3rem;
+  width: 100%;
+  height: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}

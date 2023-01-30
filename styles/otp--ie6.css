@@ -1,0 +1,226 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.otp--L8z {
+  box-sizing: border-box;
+  padding: 12.9rem 6.3rem 5rem 6.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #00358a;
+}
+.otp--L8z .pin--EVG {
+  margin: 0rem 0.6rem 5.3rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 {
+  margin: 0rem 3.4rem 11.7rem 2.9rem;
+  width: calc(100% - 6.3rem);
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 .ellipse-4-ENn {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #002766;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 .ellipse-5-NE6 {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #002766;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 .ellipse-6-JtS {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #002766;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 .ellipse-7-exJ {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #002766;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 .ellipse-8-oaJ {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #002766;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-icga-vN6 .ellipse-9-kVY {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #002766;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-wfqe-8kz {
+  margin: 0rem 0.5rem 3.5rem 0rem;
+  display: flex;
+  column-gap: 10.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-wfqe-8kz .item-1-ezE {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-wfqe-8kz .item-2-ast {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-wfqe-8kz .item-3-vRx {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-lp5k-eMx {
+  margin: 0rem 0.5rem 3.5rem 0rem;
+  display: flex;
+  column-gap: 10.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-lp5k-eMx .item-4-aFc {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-lp5k-eMx .item-5-i6v {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-lp5k-eMx .item-6-qxE {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-hwrg-z4S {
+  margin: 0rem 0.5rem 3.5rem 0rem;
+  display: flex;
+  column-gap: 10.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-hwrg-z4S .item-7-WoU {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-hwrg-z4S .item-8-rsL {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-hwrg-z4S .item-9-c5p {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-9qis-wdt {
+  margin-left: 11.9rem;
+  width: calc(100% - 11.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-9qis-wdt .item-0-h7G {
+  margin-right: 9.2rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.otp--L8z .auto-group-9qis-wdt .group-18-pBt {
+  margin-top: 0.4rem;
+  width: 3.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

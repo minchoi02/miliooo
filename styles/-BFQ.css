@@ -1,0 +1,330 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--mez {
+  width: 100%;
+  height: 64.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.item--mez .line-3-SWE {
+  width: 34.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 34.4rem;
+  background-color: #e9e8f3;
+}
+.item--mez .item--MdC {
+  width: 10.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 6.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--mez .milo--RNA {
+  width: 20.6rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 8.8rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a3a3a3;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--mez .passport-of-south-korea-iran-north-korea-chian-myanmar-the-us-and-canada-cannot-be-used-for-identification-UbL {
+  width: 30.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 36.3rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.8649999619;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--mez .icon-awesome-chevron-right-1-wE2 {
+  width: 0.7998rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 2.1002rem;
+  top: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--mez .group-24-eu8 {
+  box-sizing: border-box;
+  padding: 1.7rem 2rem 1.8rem 1.5rem;
+  width: 34.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 12.2rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.item--mez .group-24-eu8 .item--LGA {
+  margin-right: 24rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--mez .group-24-eu8 .icon-awesome-chevron-right-EcS {
+  margin-top: 0.1rem;
+  width: 0.5998rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--mez .group-25-j3Q {
+  box-sizing: border-box;
+  padding: 1rem 2rem 0.9rem 1.4rem;
+  width: 34.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 18.2rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.item--mez .group-25-j3Q .group-28-pae {
+  margin: 0rem 1.13rem 0.049rem 0rem;
+  width: 1.4704rem;
+  height: 2.451rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--mez .group-25-j3Q .auto-group-7gqr-jBp {
+  margin-right: 19rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item--mez .group-25-j3Q .auto-group-7gqr-jBp .item--frA {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--mez .group-25-j3Q .auto-group-7gqr-jBp .item--ZAr {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #959595;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--mez .group-25-j3Q .icon-awesome-chevron-right-rQr {
+  margin-bottom: 0.1rem;
+  width: 0.5998rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--mez .group-26-ZKG {
+  box-sizing: border-box;
+  padding: 1rem 2rem 0.9rem 1.4rem;
+  width: 34.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 24.2rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.item--mez .group-26-ZKG .group-27-EwC {
+  margin: 0rem 1.041rem 0.168rem 0rem;
+  width: 1.5589rem;
+  height: 2.3316rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--mez .group-26-ZKG .auto-group-ljzl-Zia {
+  margin-right: 19.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item--mez .group-26-ZKG .auto-group-ljzl-Zia .item--hpn {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--mez .group-26-ZKG .auto-group-ljzl-Zia .item--osp {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #959595;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--mez .group-26-ZKG .icon-awesome-chevron-right-WGS {
+  margin-bottom: 0.1rem;
+  width: 0.5998rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--mez .vector-1U6 {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 36.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--mez .rectangle-35-vqx {
+  width: 39rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5099999905);
+}
+.item--mez .rectangle-36-4hG {
+  width: 39rem;
+  height: 21.5rem;
+  position: absolute;
+  left: 0;
+  top: 42.5rem;
+  background-color: #f7f7f7;
+  border-radius: 2rem 2rem 0 0;
+}
+.item--mez .item--z58 {
+  width: 13.6rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 45.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--mez .item--z58 .item--z58-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #00358a;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--mez .item--z58 .item--z58-sub-1 {
+}
+.item--mez .item--Bop {
+  width: 33.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 51.8rem;
+  font-size: 1.23rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--mez .rectangle-37-xTC {
+  width: 16.5rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 57.8rem;
+  background-color: #d6e3f7;
+  border-radius: 0.8rem;
+}
+.item--mez .rectangle-38-5Xp {
+  width: 16.5rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 57.8rem;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+}
+.item--mez .item--c1x {
+  width: 6.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 7.25rem;
+  top: 59.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--mez .item--tkA {
+  width: 5.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 25.2rem;
+  top: 59.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}

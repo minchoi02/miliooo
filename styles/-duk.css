@@ -1,0 +1,363 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--38v {
+  width: 100%;
+  height: 64.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #efefef;
+}
+.item--38v .rectangle-4-WYJ {
+  width: 39rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.item--38v .rectangle-5-Ez6 {
+  width: 39rem;
+  height: 57.8rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  background-color: #ffffff;
+}
+.item--38v .item--aHG {
+  width: 7.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .icon-awesome-chevron-right-1-4CS {
+  width: 0.7998rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 2.1002rem;
+  top: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--38v .item--Nyp {
+  width: 4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 8.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .item--fxv {
+  width: 7.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 29.7rem;
+  top: 18.3rem;
+  text-align: right;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .rectangle-43-LpA {
+  width: 34.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 10.7rem;
+  background-color: #e6ecf6;
+  border-radius: 0.8rem;
+}
+.item--38v .item-0-Fw8 {
+  width: 0.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .milo-yML {
+  width: 3.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 11.9rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .rectangle-41-tDQ {
+  width: 27.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 21.4rem;
+  border: solid 0.1rem #eaeaea;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.item--38v .rectangle-45-Awc {
+  width: 27.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 25.4rem;
+  border: solid 0.1rem #eaeaea;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.item--38v .rectangle-44-sr2 {
+  width: 6.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 21.4rem;
+  background-color: #363636;
+  border-radius: 0.5rem;
+}
+.item--38v .rectangle-46-PpN {
+  width: 6.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 25.4rem;
+  background-color: #363636;
+  border-radius: 0.5rem;
+}
+.item--38v .item--XQn {
+  width: 9.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 22.25rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #cecece;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .item--bvS {
+  width: 9.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 26.25rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #cecece;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .item--t8r {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 32.5rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .item--zSn {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 35.5rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .line-3-u3x {
+  width: 34.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 30.7rem;
+  background-color: #e9e8f3;
+}
+.item--38v .item--2uG {
+  width: 22.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 32.5rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--38v .item--wPx {
+  width: 14.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 35.5rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #929292;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .or-aSv {
+  width: 2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 32.65rem;
+  top: 22.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .item--sB8 {
+  width: 1.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 32.65rem;
+  top: 26.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .rectangle-28-Zpe {
+  width: 39rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5099999905);
+}
+.item--38v .rectangle-34-7LN {
+  width: 39rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 44.1rem;
+  background-color: #f7f7f7;
+  border-radius: 2rem 2rem 0 0;
+}
+.item--38v .item--dZc {
+  width: 12.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 46.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.item--38v .item--dZc .item--dZc-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #00358a;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+}
+.item--38v .item--dZc .item--dZc-sub-1 {
+}
+.item--38v .item--vBL {
+  width: 16.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 51.2rem;
+  font-size: 1.23rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--38v .rectangle-32-xti {
+  width: 34.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 57.9rem;
+  background-color: #00358a;
+  border-radius: 0.8rem;
+}
+.item--38v .item--hLW {
+  width: 6rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 16.65rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}

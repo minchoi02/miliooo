@@ -1,0 +1,171 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.item--C7h {
+  width: 100%;
+  height: 64.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #efefef;
+}
+.item--C7h .item-52-sjd {
+  width: 2.7884rem;
+  height: 2.7884rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--C7h .item--nbh {
+  width: 7rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 15.95rem;
+  top: 69.8rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--C7h .auto-group-wmbq-q4B {
+  width: 39rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.item--C7h .auto-group-wmbq-q4B .rectangle-4-wN7 {
+  width: 39rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.item--C7h .auto-group-wmbq-q4B .rectangle-5-gKh {
+  width: 39rem;
+  height: 57.8rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  background-color: #ffffff;
+}
+.item--C7h .auto-group-wmbq-q4B .item--cj9 {
+  width: 3.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--C7h .auto-group-wmbq-q4B .icon-awesome-chevron-right-1-iXH {
+  width: 0.7998rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 2.1002rem;
+  top: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--C7h .auto-group-wmbq-q4B .frame-2ns {
+  width: 18.316rem;
+  height: 12.869rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 1.7rem;
+  overflow: hidden;
+}
+.item--C7h .auto-group-wmbq-q4B .group-11-APH {
+  width: 2.7902rem;
+  height: 1.9603rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--C7h .auto-group-wmbq-q4B .item--t4P {
+  width: 7.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--C7h .auto-group-wmbq-q4B .item--ZRR {
+  width: 2.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 32.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--C7h .item--T11 {
+  width: 5.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 64.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--C7h .item--Kou {
+  width: 2.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 64.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RixRak-Sans_Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
